@@ -1,2 +1,3 @@
 # first
-its my first time
+its my first time i am using this thing... will be learning commit here ...
+
